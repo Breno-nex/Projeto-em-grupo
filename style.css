@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    }
+
+
+
+    header{
+        background-color:#000000;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+    }
+    .perfil-imagem{
+        width: 18%;
+    }
+    
+    .cabeçalho-lista-item{
+width: 50%;   
+    }
